@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.6989edd6.chunk.css",
-    "main.js": "/static/js/main.feb7043e.chunk.js",
-    "main.js.map": "/static/js/main.feb7043e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e53bd2bb.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e53bd2bb.js.map",
-    "static/css/2.a10ec74d.chunk.css": "/static/css/2.a10ec74d.chunk.css",
-    "static/js/2.c6271110.chunk.js": "/static/js/2.c6271110.chunk.js",
-    "static/js/2.c6271110.chunk.js.map": "/static/js/2.c6271110.chunk.js.map",
-    "static/js/3.e0df8bf3.chunk.js": "/static/js/3.e0df8bf3.chunk.js",
-    "static/js/3.e0df8bf3.chunk.js.map": "/static/js/3.e0df8bf3.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.a10ec74d.chunk.css.map": "/static/css/2.a10ec74d.chunk.css.map",
-    "static/css/main.6989edd6.chunk.css.map": "/static/css/main.6989edd6.chunk.css.map",
-    "static/js/2.c6271110.chunk.js.LICENSE.txt": "/static/js/2.c6271110.chunk.js.LICENSE.txt"
+    "main.css": "/healthcare/static/css/main.6989edd6.chunk.css",
+    "main.js": "/healthcare/static/js/main.feb7043e.chunk.js",
+    "main.js.map": "/healthcare/static/js/main.feb7043e.chunk.js.map",
+    "runtime-main.js": "/healthcare/static/js/runtime-main.4dba33c1.js",
+    "runtime-main.js.map": "/healthcare/static/js/runtime-main.4dba33c1.js.map",
+    "static/css/2.a10ec74d.chunk.css": "/healthcare/static/css/2.a10ec74d.chunk.css",
+    "static/js/2.ef6521cb.chunk.js": "/healthcare/static/js/2.ef6521cb.chunk.js",
+    "static/js/2.ef6521cb.chunk.js.map": "/healthcare/static/js/2.ef6521cb.chunk.js.map",
+    "static/js/3.e0df8bf3.chunk.js": "/healthcare/static/js/3.e0df8bf3.chunk.js",
+    "static/js/3.e0df8bf3.chunk.js.map": "/healthcare/static/js/3.e0df8bf3.chunk.js.map",
+    "index.html": "/healthcare/index.html",
+    "static/css/2.a10ec74d.chunk.css.map": "/healthcare/static/css/2.a10ec74d.chunk.css.map",
+    "static/css/main.6989edd6.chunk.css.map": "/healthcare/static/css/main.6989edd6.chunk.css.map",
+    "static/js/2.ef6521cb.chunk.js.LICENSE.txt": "/healthcare/static/js/2.ef6521cb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e53bd2bb.js",
+    "static/js/runtime-main.4dba33c1.js",
     "static/css/2.a10ec74d.chunk.css",
-    "static/js/2.c6271110.chunk.js",
+    "static/js/2.ef6521cb.chunk.js",
     "static/css/main.6989edd6.chunk.css",
     "static/js/main.feb7043e.chunk.js"
   ]
