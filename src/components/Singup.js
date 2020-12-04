@@ -14,12 +14,13 @@ const tailLayout = {
     wrapperCol: { offset: 8, span: 16 },
 };
 
-function Signup() {
+function Signup({...props}) {
 
     const onFinish = values => {
         console.log('Success:', values);
-        axios.post(URL + 'user/signup', values).then(res => {
-        console.log(res.data)
+            axios.post(URL + 'user/signup', values).then(res => {
+            console.log(res.data)
+            props.history.push('/dashboard')
         })
     };
 
